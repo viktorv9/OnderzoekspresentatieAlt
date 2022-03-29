@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w+Qi0iMvhsnwbch9DiJK8tEVRNx1OW2DtFr+fB5pikswa2XaDpNTYWBvzuPrbWriMvHAbNcTPW5tIKhCoXu9wQ==",
+  "dgSpecHash": "0+bfGu9/Vh4r63IS7IiMxC5Ar2PChX5YhhrJV98+lkhCWpWmiJfC6vEBKKU1wn37kTQg4uqJCvVWvKWmboH/+g==",
   "success": true,
-  "projectFilePath": "F:\\GitHub-Reps\\WpfPortfolio\\PortfolioApi\\PortfolioApi.csproj",
+  "projectFilePath": "F:\\GitHub-Reps\\OnderzoekspresentatieAlt\\PortfolioApi_OnderzoeksAlt\\PortfolioApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vgver\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\vgver\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

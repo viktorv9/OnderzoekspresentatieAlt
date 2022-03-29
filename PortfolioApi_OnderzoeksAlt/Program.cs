@@ -13,7 +13,7 @@ string _assetsPath = Path.Combine(Environment.CurrentDirectory, "assets");
 string _imagesFolder = Path.Combine(_assetsPath, "images");
 string _trainTagsTsv = Path.Combine(_imagesFolder, "tags.tsv");
 string _testTagsTsv = Path.Combine(_imagesFolder, "test-tags.tsv");
-string _predictSingleImage = Path.Combine(Environment.CurrentDirectory, "AllOverShoe.jpg");
+string _predictSingleImage = Path.Combine(Environment.CurrentDirectory, "digi.jpg");
 string _inceptionTensorFlowModel = Path.Combine(_assetsPath, "inception", "tensorflow_inception_graph.pb");
 
 //end code to be moved

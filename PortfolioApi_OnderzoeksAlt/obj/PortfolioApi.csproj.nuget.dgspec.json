@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub-Reps\\WpfPortfolio\\PortfolioApi\\PortfolioApi.csproj": {}
+    "F:\\GitHub-Reps\\OnderzoekspresentatieAlt\\PortfolioApi_OnderzoeksAlt\\PortfolioApi.csproj": {}
   },
   "projects": {
-    "F:\\GitHub-Reps\\WpfPortfolio\\PortfolioApi\\PortfolioApi.csproj": {
+    "F:\\GitHub-Reps\\OnderzoekspresentatieAlt\\PortfolioApi_OnderzoeksAlt\\PortfolioApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub-Reps\\WpfPortfolio\\PortfolioApi\\PortfolioApi.csproj",
+        "projectUniqueName": "F:\\GitHub-Reps\\OnderzoekspresentatieAlt\\PortfolioApi_OnderzoeksAlt\\PortfolioApi.csproj",
         "projectName": "PortfolioApi",
-        "projectPath": "F:\\GitHub-Reps\\WpfPortfolio\\PortfolioApi\\PortfolioApi.csproj",
+        "projectPath": "F:\\GitHub-Reps\\OnderzoekspresentatieAlt\\PortfolioApi_OnderzoeksAlt\\PortfolioApi.csproj",
         "packagesPath": "C:\\Users\\vgver\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub-Reps\\WpfPortfolio\\PortfolioApi\\obj\\",
+        "outputPath": "F:\\GitHub-Reps\\OnderzoekspresentatieAlt\\PortfolioApi_OnderzoeksAlt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vgver\\AppData\\Roaming\\NuGet\\NuGet.Config",
